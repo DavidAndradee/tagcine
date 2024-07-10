@@ -1,0 +1,8 @@
+.texto h1{
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+.texto{
+    margin: 15px;
+}
